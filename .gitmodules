@@ -1,0 +1,3 @@
+[submodule "public/landing-page"]
+	path = public/landing-page
+	url = https://git.precoa.com/legacy-suite/landing-page.git
